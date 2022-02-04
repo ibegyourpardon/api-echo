@@ -44,3 +44,5 @@ All data are stored in memory.
 Just for you to create your mock data.
 
 easy to use with Docker.
+
+```docker pull ibegyourpardon/api-echo:v1```
